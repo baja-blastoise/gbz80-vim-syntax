@@ -11,4 +11,4 @@ See the Vim/NeoVim documentation for information on how to automatically apply s
 
 ## Example
 Here's how it looks on my NeoVim setup.  Configured using LazyVim.
-!(lazyvim_example.png)
+![screenshot](/lazyvim_example.png)
